@@ -1,1 +1,11 @@
-[ ]
+[ {
+  "id" : 2,
+  "title" : "Data Analyst",
+  "company" : "Insight Labs",
+  "location" : "delhi",
+  "type" : "Full-Time",
+  "salary" : "450000",
+  "experience" : 3,
+  "date" : "2025-09-21",
+  "skills" : "java,python,angular"
+} ]
